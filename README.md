@@ -1,4 +1,4 @@
-# AI Cancer Cure: Personalized Cancer Care Assistant
+# Cancer Cure ⚕️ Personalized AI Cancer Care Assistant
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-AI Cancer Cure is a groundbreaking AI-driven platform designed to deliver personalized cancer care by analyzing patient data, medical records, and clinical guidelines. Leveraging advanced AI capabilities, the platform identifies screening gaps, crafts individualized treatment plans, and enhances the overall quality of patient care. By integrating with Gemini AI, the assistant provides real-time insights and tailored recommendations, empowering healthcare providers to offer optimized treatment plans that improve patient outcomes.
+`Cancer Cure` is a groundbreaking AI-driven platform designed to deliver personalized cancer care by analyzing patient data, medical records, and clinical guidelines. Leveraging advanced AI capabilities, the platform identifies screening gaps, crafts individualized treatment plans, and enhances the overall quality of patient care. By integrating with Gemini AI, the assistant provides real-time insights and tailored recommendations, empowering healthcare providers to offer optimized treatment plans that improve patient outcomes.
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
